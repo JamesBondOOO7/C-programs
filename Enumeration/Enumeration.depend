@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1573976290 source:d:\c programs\enumeration\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1573976521 source:c:\c programs\enumeration\main.c
+	<stdio.h>
+	<stdlib.h>
+

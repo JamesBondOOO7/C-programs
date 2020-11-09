@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574769875 source:c:\c programs\pointersasarrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

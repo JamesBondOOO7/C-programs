@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574760800 source:c:\c programs\insertinganelemet\main.c
+	<stdio.h>
+	<stdlib.h>
+

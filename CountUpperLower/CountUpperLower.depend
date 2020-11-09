@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574771292 source:c:\c programs\countupperlower\main.c
+	<stdio.h>
+	<stdlib.h>
+
